@@ -1,4 +1,4 @@
-Code for "Contextualized Sequence Likelihood: Enhanced Confidence Scores for Natural Language Generation"
+Code for "Contextualized Sequence Likelihood: Enhanced Confidence Scores for Natural Language Generation" ([arxiv](https://arxiv.org/abs/2406.01806))
 
 # Replicate Our Experiments
 
